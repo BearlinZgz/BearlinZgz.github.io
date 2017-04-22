@@ -1,4 +1,4 @@
-var w = 250, rows = 2, cols = 2;
+var w = 25, rows = 20, cols = 20;
 var grid = [];
 var current;
 var stack = [];
